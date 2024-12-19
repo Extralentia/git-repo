@@ -1,0 +1,5 @@
+/IBS/.vs/
+/IBS/IBS/bin/
+/IBS/IBS/obj/
+*.csproj
+*.sln
